@@ -49,7 +49,7 @@ Podes contactarme directamente a través de WhatsApp, mi perfil de Linkedin o em
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=alanrpalmas@gmail.com&su=Contacto%20desde%20tu%20Portafolio&body=Hola%20Alan!)
 
 ### 📁 Portafolio:
-[Visita mi portafolio](https://alanpalmas.github.io/) Inspirado en el porafolio de Gustavo Vargas Leal.
+[Visita mi portafolio](https://alanpalmas.github.io/)
 <!---
 alanpalmas/alanpalmas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
