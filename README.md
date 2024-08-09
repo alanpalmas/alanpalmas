@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/alanpalmas/">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:alanrpalmas@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=alanrpalmas@gmail.com&su=Contacto%20desde%20tu%20Portafolio&body=Hola%20Alan!">
     <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=alanpalmas" alt="Visitors" />
@@ -46,7 +46,7 @@ Podes contactarme directamente a través de WhatsApp, mi perfil de Linkedin o em
 
 - [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+541139392590)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanpalmas/)
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alanrpalmas@gmail.com?subject=Contacto%20desde%20tu%20Portafolio)
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=alanrpalmas@gmail.com&su=Contacto%20desde%20tu%20Portafolio&body=Hola%20Alan!)
 
 ### 📁 Portafolio:
 [Visita mi portafolio](https://alanpalmas.github.io/) Inspirado en el porafolio de Gustavo Vargas Leal.
