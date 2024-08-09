@@ -41,7 +41,12 @@ Soy un Software QA Engineer con experiencia en desarrollo y aseguramiento de la 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=alanpalmas&layout=compact&theme=graywhite)
 
 ### 📫 Contáctame:
-- Correo: [alanrpalmas@gmail.com](mailto:alanrpalmas@gmail.com)
+
+Podes contactarme directamente a través de WhatsApp, mi perfil de Linkedin o email:
+
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+541139392590)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanpalmas/)
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alanrpalmas@gmail.com?subject=Contacto%20desde%20tu%20Portafolio)
 
 ### 📁 Portafolio:
 [Visita mi portafolio](https://alanpalmas.github.io/) Inspirado en el porafolio de Gustavo Vargas Leal.
